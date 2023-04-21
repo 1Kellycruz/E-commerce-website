@@ -1,9 +1,24 @@
+label {
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 250px;
+    text-align: right;
+}
+div,
+.container-login {
+    width: 100%;
+}
 
 
+p,
+label {
+    font: 1rem 'Fira Sans', sans-serif;
+}
 
-
-
-
+input {
+    margin: 0.4rem;
+}
 
 
 
